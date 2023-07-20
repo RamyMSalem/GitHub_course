@@ -8,6 +8,16 @@ _GitHub_ : This is *italic* text _italic_
 <sub>subtext</sub>
 > Text that is a quote
 
+**Unorder List**
+- Item one
+- Item two
+- Item three
+
+  **Order List**
+  1. Item one
+  1. Item two
+  2. Item Three
+
 Some basic Git commands are:
 ```
 git status
