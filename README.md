@@ -15,8 +15,8 @@ _GitHub_ : This is *italic* text _italic_
 
   **Order List**
   1. Item one
-  2. Item two
-  3. Item Three
+  1. Item two
+  1. Item Three
 
 Some basic Git commands are:
 ```
