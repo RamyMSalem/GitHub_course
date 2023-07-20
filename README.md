@@ -14,9 +14,18 @@ _GitHub_ : This is *italic* text _italic_
 - Item three
 
   **Order List**
-  1. Item one
-  1. Item two
-  1. Item Three
+  2. Item one
+  2. Item two
+  2. Item Three
+
+  **Details List**
+  1. FrontEnd
+     - HTML
+     - CSS
+     - JS
+  2. BackEnd
+     - PHP
+     - MySQL
 
 Some basic Git commands are:
 ```
