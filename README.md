@@ -1,2 +1,2 @@
-# GetHub_course
-Which we will do in GetHub course with Elzero web school
+# GitHub_course
+Which we will do in GitHub course with Elzero web school
